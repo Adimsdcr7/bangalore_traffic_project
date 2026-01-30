@@ -140,9 +140,6 @@ Congestion in Bangalore is driven more by **structural capacity constraints** th
 
 ---
 
-## How to Run This Project
-
-1. Clone the repository
 
 ---
 
